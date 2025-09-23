@@ -14,12 +14,12 @@
     },
     {
       "id": 2,
-      "title": "Why Rope Access is Safer and More Cost-Effective than Scaffolding",
-      "description": "This is the 2nd article.",
+      "title": "Weather, Wind, and Work at Height: Managing Environmental Risks",
+      "description": "Explores how environmental conditions affect working at height and provides strategies to manage risks safely.",
       "full-text": "empty",
-      "cover": "assets/images/gallery/ultra-worx-8.webp",
-      "date": "02.01.2025",
-      "link": "test-2.html",
+      "cover": "assets/images/gallery/windmill.jpg",
+      "date": "12.08.2025",
+      "link": "weatherwind.html",
       "tags": ["Facade-Inspections"],
       "related-articles": [1, 3],
       "popular": true
