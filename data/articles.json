@@ -61,7 +61,7 @@
       "popular": false
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Ensuring Compliance: What Building & Safety Managers Need to Know About Fall Protection Systems?",
       "description": "Learn how the BS 7883:2019 standard reshaped fall protection compliance and what building managers need to know about system types and safety at height.",
       "full-text": "empty",
@@ -71,4 +71,6 @@
       "tags": ["Rope-Access", "tag2"],
       "related-articles": [1, 2],
       "popular": false
-    },
+        }
+      ]
+    }
