@@ -53,9 +53,9 @@
       "title": "How often Should Facility Managers Schedule Facade Inspections?",
       "description": "Often overlooked, facade inspections are a crucial necessity for knowing the true condition of your building.",
       "full-text": "empty",
-      "cover": "assets/images/gallery/facadeinspection.jpg",
+      "cover": "assets/images/gallery/conditionsurvey.jpg",
       "date": "01.09.2025",
-      "link": "debunkingmyth.html",
+      "link": "facadeinspection.html",
       "tags": ["Rope-Access", "tag2"],
       "related-articles": [1, 2],
       "popular": false
@@ -75,7 +75,7 @@
         {
       "id": 7,
       "title": "emtpy needs filling?",
-      "description": "emtpy needs filling",
+      "description": "empty needs",
       "full-text": "empty",
       "cover": "assets/images/gallery/guardrail.jpg",
       "date": "24.09.2025",
