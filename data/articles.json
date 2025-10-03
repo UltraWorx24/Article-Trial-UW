@@ -10,7 +10,7 @@
       "link": "ropeaccesssafety.html",
       "tags": ["Rope-Access", "Scaffolding"],
       "related-articles": [2, 3, 4],
-      "popular": true
+      "popular": false
     },
     {
       "id": 2,
@@ -82,7 +82,7 @@
       "link": "ropeaccessmodule.html",
       "tags": ["Rope-Access", "tag2"],
       "related-articles": [1, 2],
-      "popular": false
+      "popular": true
         },
         {
       "id": 8,
@@ -94,7 +94,7 @@
       "link": "petition.html",
       "tags": ["Rope-Access", "tag2"],
       "related-articles": [1, 2],
-      "popular": false
+      "popular": true
         }
       ]
     }
