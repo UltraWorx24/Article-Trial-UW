@@ -8,8 +8,8 @@
       "cover": "assets/images/gallery/ultra-worx-1.webp",
       "date": "06.09.2025",
       "link": "thumbsup.html",
-      "tags": ["Rope-Access", "Scaffolding"],
-      "related-articles": [2, 3, 4],
+      "tags": ["Large-Facilities", "Facade-Inspections", "Planned-Maintenance", "Emergency-Repairs"],
+      "related-articles": [5, 7, 4],
       "popular": false
     },
     {
@@ -80,8 +80,8 @@
       "cover": "assets/images/gallery/anglegrinder.jpeg",
       "date": "04.09.2025",
       "link": "ropeaccessmodule.html",
-      "tags": ["Rope-Access", "tag2"],
-      "related-articles": [1, 2],
+      "tags": ["Large-Facilities", "Facade-Inspections", "Planned-Maintenance", "Emergency-Repairs"],
+      "related-articles": [4, 2, 3],
       "popular": true
         },
         {
