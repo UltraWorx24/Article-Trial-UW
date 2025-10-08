@@ -20,7 +20,7 @@
       "cover": "assets/images/gallery/windmill.jpg",
       "date": "12.08.2025",
       "link": "weatherwind.html",
-      "tags": ["Facade-Inspections", ""],
+      "tags": ["Facade-Inspections", "Reactive-Maintenance", "Best-Practices", ""],
       "related-articles": [1, 3],
       "popular": true
     },
@@ -32,7 +32,7 @@
       "cover": "assets/images/gallery/wahlaptop.png",
       "date": "07.09.2025",
       "link": "wahdilemma.html",
-      "tags": ["Rope-Access", "tag2"],
+      "tags": ["Health-&-Safety", "Case-Study"],
       "related-articles": [1, 2],
       "popular": false
     },
@@ -44,7 +44,7 @@
       "cover": "assets/images/gallery/coredrilling.png",
       "date": "05.09.2025",
       "link": "debunkingmyth.html",
-      "tags": ["Rope-Access", "tag2"],
+      "tags": ["Rope-Access", "Health-&-Safety", "Best-Practices"],
       "related-articles": [1, 2],
       "popular": false
     },
@@ -56,7 +56,7 @@
       "cover": "assets/images/gallery/conditionsurvey.jpg",
       "date": "01.09.2025",
       "link": "facadeinspection.html",
-      "tags": ["Rope-Access", "tag2"],
+      "tags": ["Rope-Access", "Compliance","Commercial-Property","Large-Facilities","Facade-Inspections","Cost-Savings"],
       "related-articles": [1, 2],
       "popular": false
     },
@@ -68,7 +68,7 @@
       "cover": "assets/images/gallery/guardrail.jpg",
       "date": "24.09.2025",
       "link": "fallprotection.html",
-      "tags": ["Rope-Access", "tag2"],
+      "tags": ["Fall-Protection-Systems", "Compliance","Health-&-Safety","Best-Practices"],
       "related-articles": [1, 2],
       "popular": false
         },
@@ -80,7 +80,7 @@
       "cover": "assets/images/gallery/anglegrinder.jpeg",
       "date": "04.09.2025",
       "link": "ropeaccessmodule.html",
-      "tags": ["Large-Facilities", "Facade-Inspections", "Planned-Maintenance", "Emergency-Repairs"],
+      "tags": ["Large-Facilities", "Facade-Inspections", "Planned-Maintenance", "Emergency-Repairs","Drones"],
       "related-articles": [4, 2, 3],
       "popular": true
         },
@@ -92,7 +92,7 @@
       "cover": "assets/images/gallery/petition.png",
       "date": "02.10.2025",
       "link": "petition.html",
-      "tags": ["Rope-Access", "tag2"],
+      "tags": ["Compliance", "Health-&-Safety","Cost-Savings"],
       "related-articles": [1, 2],
       "popular": true
         }
