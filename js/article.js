@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 async function loadPopularArticles() {
   try {
-    const response = await fetch("/Article-Trial-UW/data/articles.json");
+    const response = await fetch("/Ultra/data/articles.json");
     const data = await response.json();
 
     // Filter only articles with popular: true
@@ -62,7 +62,7 @@ function renderPopularArticles(articles) {
 
 async function loadRelatedArticles() {
   try {
-    const response = await fetch("/Article-Trial-UW/data/articles.json");
+    const response = await fetch("/Ultra/data/articles.json");
     const data = await response.json();
     const currentPath = window.location.pathname.split("/").pop();
 
