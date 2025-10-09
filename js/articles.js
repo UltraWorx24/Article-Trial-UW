@@ -171,7 +171,7 @@ function renderArticleBoxes(articles, reset = true) {
 
 async function loadArticles() {
   try {
-    const response = await fetch("/UltraWorx/data/articles.json");
+    const response = await fetch("/data/articles.json");
     const data = await response.json();
     allArticles = data.articles;
 
